@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./baronyaidecsij00deciuoft_0085.png"; bbox 0 0 2112 3288; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 183 1333 1506 1425">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 183 1309 1506 1456">
+     <span class='ocr_line' id='line_1_1' title="bbox 183 1333 1506 1425; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 183 1333 192 1340; x_wconf 81' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 442 1357 804 1423; x_wconf 82' lang='lat' dir='ltr'><strong>IOANNIS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 842 1357 1092 1424; x_wconf 79' lang='lat' dir='ltr'>DEon</span> <span class='ocrx_word' id='word_1_4' title='bbox 1130 1357 1506 1425; x_wconf 81' lang='lat' dir='ltr'>BAROVII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 572 1503 1266 1557">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 572 1503 1266 1557">
+     <span class='ocr_line' id='line_1_2' title="bbox 572 1503 1266 1557; baseline 0.001 -1"><span class='ocrx_word' id='word_1_5' title='bbox 572 1503 575 1505; x_wconf 36' lang='lat'><strong><em>¹</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 694 1511 1266 1557; x_wconf 85' lang='lat' dir='ltr'><strong>COMMENTARIORVM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 191 1558 1725 1777">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 191 1558 1725 1777">
+     <span class='ocr_line' id='line_1_3' title="bbox 191 1558 1725 1777; baseline -0.001 -32.985"><span class='ocrx_word' id='word_1_7' title='bbox 191 1558 404 1775; x_wconf 83' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_8' title='bbox 440 1652 893 1777; x_wconf 77' lang='lat' dir='ltr'><strong>REBVS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 940 1599 1725 1745; x_wconf 76' lang='lat' dir='ltr'><strong>VNGARIOIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 438 1831 1385 1913">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 438 1831 1385 1913">
+     <span class='ocr_line' id='line_1_4' title="bbox 438 1831 1385 1913; baseline 0.003 -30"><span class='ocrx_word' id='word_1_10' title='bbox 438 1909 440 1913; x_wconf 18' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_11' title='bbox 552 1831 776 1883; x_wconf 90' lang='lat' dir='ltr'>LIBRI</span> <span class='ocrx_word' id='word_1_12' title='bbox 815 1833 957 1894; x_wconf 83' lang='lat' dir='ltr'><strong>QVI</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 994 1833 1385 1886; x_wconf 81' lang='lat' dir='ltr'><strong>EXSTANT</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 131 3288">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 131 3288">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 131 3288; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 131 3288; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

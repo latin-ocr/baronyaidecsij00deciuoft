@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./baronyaidecsij00deciuoft_0076.png"; bbox 0 0 2112 3288; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 588 300 1771 437">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 588 300 1771 437">
+     <span class='ocr_line' id='line_1_1' title="bbox 588 300 1771 364; baseline 0.018 -21"><span class='ocrx_word' id='word_1_1' title='bbox 588 300 773 347; x_wconf 85' lang='lat' dir='ltr'><strong>VERA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 817 306 1170 353; x_wconf 81' lang='lat' dir='ltr'>EFFIGIES</span> <span class='ocrx_word' id='word_1_3' title='bbox 1211 312 1521 359; x_wconf 80' lang='lat' dir='ltr'>IOANNIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1565 321 1771 364; x_wconf 83' lang='lat' dir='ltr'><strong>DEOII</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1018 393 1338 437; baseline 0.009 -3"><span class='ocrx_word' id='word_1_5' title='bbox 1018 393 1338 437; x_wconf 89' lang='lat' dir='ltr'>BARONII.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1202 2085 1334 2148">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1202 2085 1334 2148">
+     <span class='ocr_line' id='line_1_3' title="bbox 1202 2085 1334 2148; baseline 0.045 -15"><span class='ocrx_word' id='word_1_6' title='bbox 1202 2085 1334 2148; x_wconf 26' lang='lat' dir='ltr'><strong>&amp;Q</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1185 2115 1326 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1185 2115 1326 2175">
+     <span class='ocr_line' id='line_1_4' title="bbox 1185 2115 1326 2175; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 1185 2115 1326 2175; x_wconf 48' lang='lat' dir='ltr'><em>ff</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 310 490 2008 2756">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 310 490 2008 2756">
+     <span class='ocr_line' id='line_1_5' title="bbox 310 490 2008 2756; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 310 490 2008 2756; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 451 2873 1802 2932">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 451 2873 1802 2932">
+     <span class='ocr_line' id='line_1_6' title="bbox 451 2873 1802 2932; baseline 0.02 -26"><span class='ocrx_word' id='word_1_9' title='bbox 451 2873 482 2907; x_wconf 87' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_10' title='bbox 499 2875 664 2922; x_wconf 83' lang='lat' dir='ltr'>Lugossy</span> <span class='ocrx_word' id='word_1_11' title='bbox 682 2879 785 2915; x_wconf 65' lang='lat' dir='ltr'><strong>tana&#39;u·</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 802 2881 905 2918; x_wconf 66' lang='lat' dir='ltr'><strong>firna&#39;tl</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 931 2882 1010 2917; x_wconf 73' lang='grc' dir='ltr'><strong>Ιὲνὸ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1034 2885 1163 2919; x_wconf 74' lang='lat' dir='ltr'>eredeti</span> <span class='ocrx_word' id='word_1_15' title='bbox 1185 2890 1343 2932; x_wconf 72' lang='lat' dir='ltr'>ogykomi</span> <span class='ocrx_word' id='word_1_16' title='bbox 1370 2892 1557 2927; x_wconf 78' lang='lat' dir='ltr'><strong>fametszet</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1578 2890 1802 2932; x_wconf 54' lang='lat' dir='ltr'><strong>hasonmffisa.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
